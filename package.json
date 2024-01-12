@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "serverless-offline": "^13.3.2"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1529.0"
+  }
+}
